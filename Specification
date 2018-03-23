@@ -1,0 +1,11 @@
+Hardware
+
+      •	Texas Instruments TI MSP430G2553
+      •	430 BOOST ADS1118 ADC (Analog to Digital convertor)
+      •	K-type thermocouple 
+
+Software
+
+      •	Microcontroller sketch for MSP430
+         To acquire temperature data from K-type thermocouple connected to ADS1118 and print it to the on board lcd screen and to COM port of a PC.
+
