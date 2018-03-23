@@ -1,0 +1,11 @@
+
+	MODULES
+
+1.	Data Acquisition module
+      To acquire temperature data from COM port and process it.
+
+2.	Data Plotting and Data Logging
+      To plot the values in a real-time graph and log the data in csv file.
+
+3.	Thermal analysis
+      To analyse the collected data.
